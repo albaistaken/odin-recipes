@@ -1,0 +1,35 @@
+.title {
+    font-family: Helvetica, Tahoma, sans-serif;
+    color: #463f3a;
+    background-color: #F0EBE7;
+    margin: 5px 7px;
+    margin-bottom: 0px;
+    padding-bottom: 15px;
+}
+
+.homepagelink {
+    font-family: Helvetica, Tahoma, sans-serif;
+    background-color: #F0EBE7;
+    margin: 5px 7px;
+    width: 660px;
+}
+
+a:link {
+    color: #463f3a;
+    text-decoration: none;
+}
+
+a:visited {
+    color: #463f3a;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #8a817c;
+}
+
+.boxtitle {
+    background-color: #DBD4CE;
+    width: 670px;
+    padding: 5px;
+}
