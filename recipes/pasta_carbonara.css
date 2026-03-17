@@ -1,0 +1,85 @@
+body {
+    width: 700px;
+    margin: 0px auto;
+}
+
+.boxtitle2 {
+    background-color: #F0EBE7;
+    margin: 5px;
+    padding: 5px;
+}
+
+.boxtitle {
+    background-color: #DBD4CE;
+    width: 670px;
+    padding: 5px;
+    /* Added margin top for the top of the page */
+    margin-top: 20px;
+}
+
+.title {
+    font-family: Helvetica, Tahoma, sans-serif;
+    color: #463f3a;
+    margin: 0px;
+    margin-bottom: 15px;
+    margin-left: 5px;
+}
+
+.homepagelink {
+    font-family: Helvetica, Tahoma, sans-serif;
+    display: block;
+    margin-bottom: 5px;
+    margin-left: 5px;
+}
+
+a:link {
+    color: #463f3a;
+    text-decoration: none;
+}
+
+a:visited {
+    color: #463f3a;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #8a817c;
+}
+
+.photopasta {
+    background-color: #DBD4CE;
+    box-sizing: border-box;
+    width: 680px;
+    margin-top: 7px;
+}
+
+img {
+    /* No margin to center the photo because whole body is centered */
+    width: 660px;
+    display: block;
+    padding: 10px;
+}
+
+.bigbox_recipe {
+    background-color: #DBD4CE;
+    box-sizing: border-box;
+    width: 680px;
+    padding: 10px;
+    margin-top: 7px;
+}
+
+.smallbox_recipe {
+    background-color: #F0EBE7;
+    padding: 10px;
+}
+
+.title2 {
+    margin: 0px;
+    font-family: Helvetica, Tahoma, sans-serif;
+    color: #463f3a;
+}
+
+p, ul, ol {
+    font-family: Helvetica, Tahoma, sans-serif;
+    color: #464646;
+}
